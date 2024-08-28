@@ -4,17 +4,16 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
+    title: 'Whats this book about?',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        This book offers open-source guidance to help businesses and communities build strong security architectures and it’s all free—because robust security should be accessible to everyone.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
+    title: 'New to Security Architecture?',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
@@ -24,7 +23,7 @@ const FeatureList = [
     ),
   },
   {
-    title: 'Powered by React',
+    title: 'Want to contact us?',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
