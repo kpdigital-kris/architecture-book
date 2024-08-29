@@ -13,12 +13,11 @@ const FeatureList = [
     ),
   },
   {
-    title: 'New to Security Architecture?',
+    title: 'How to use this book?',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        This book is designed for flexibility—take the sections that matter most to your organisation and tailor them to fit your unique needs. It’s a toolkit, not a one-size-fits-all solution, so you can adapt it to protect what matters most to you.
       </>
     ),
   },
@@ -27,8 +26,7 @@ const FeatureList = [
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+We’d love to hear from you! If you have ideas, suggestions, or improvements you'd like to see incorporated into our book, reach out to us. Your feedback helps us make this resource even better—because we’re all about building stronger security together.
       </>
     ),
   },
