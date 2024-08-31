@@ -26,7 +26,7 @@ const FeatureList = [
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-We’d love to hear from you! If you have ideas, suggestions, or improvements you'd like to see incorporated into our book, reach out to us. Your feedback helps us make this resource even better—because we’re all about building stronger security together.
+We’d love to hear from you! If you have ideas, suggestions, or improvements you'd like to see incorporated into our book, reach out to us. Your feedback helps us make this resource even better.
       </>
     ),
   },
